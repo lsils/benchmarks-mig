@@ -12,7 +12,7 @@
 | Sine                   | 3869   | 124   |
 | Square-root            | 12247  | 2156  |
 | Square                 | 8089   | 126   |
-| Round-robin arbiter    |        |       |
+| Round-robin arbiter    | 892    | 108   |
 | Alu control unit       | 374    | 16    |
 | Coding-cavlc           | 60     | 8     |
 | Decoder                | 304    | 3     |
@@ -22,4 +22,4 @@
 | Priority encoder       | 337    | 23    |
 | Lookahead XY router    | 97     | 13    |
 | Voter                  | 3894   | 32    |
-| **Total**              | 209160 |       |
+| **Total**              | 208956 | 14677 |
